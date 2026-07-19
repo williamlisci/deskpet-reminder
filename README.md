@@ -38,4 +38,4 @@ Mở `installer.iss` bằng Inno Setup 7 Compiler, nhấn F9 để build.
 - pip install -r requirements.txt
 
 ## Giấy phép
-(bạn tự chọn: MIT / Apache 2.0 / v.v. — hoặc để trống nếu chưa quyết định)
+không.
