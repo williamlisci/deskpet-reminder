@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Inno Setup output
+installer_output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ảnh gốc chưa xử lý (không cần thiết, chỉ cần bản đã xử lý trong assets/cat)
+assets/cat_raw/
+
+# File dữ liệu cá nhân, không nên chia sẻ công khai
+shown_quotes.json
+
+# VS Code settings (tuỳ chọn, nếu bạn dùng VS Code)
+.vscode/
